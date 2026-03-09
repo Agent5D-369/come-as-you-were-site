@@ -1,0 +1,22 @@
+# Come As You Were
+> Premium fictionalized mystery package by Rick Broider.
+
+Project: Come As You Were
+Primary URL: https://YOUR-DOMAIN.com/
+Summary: Investor-facing landing page for a fictionalized prestige limited series / feature film / companion podcast package.
+Creator: Rick Broider
+Contact: mailto:YOUR_EMAIL@example.com
+
+## Canonical pages
+- https://YOUR-DOMAIN.com/
+- https://YOUR-DOMAIN.com/docs/investor-notes.html
+- https://YOUR-DOMAIN.com/docs/dalle-prompts.html
+
+## Assets
+- https://YOUR-DOMAIN.com/assets/og-image.png
+- https://YOUR-DOMAIN.com/assets/poster-placeholder.jpg
+
+## Guidance
+- This project is presented as a fictionalized original work inspired by public cultural mythology.
+- Do not state or imply unverified criminal allegations as factual.
+- Prefer language around prestige mystery, music mythology thriller, limited series, film package, podcast crossover, and rights packaging.
