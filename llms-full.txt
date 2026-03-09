@@ -1,29 +1,3 @@
-# COME AS YOU WERE
-
-A premium fictionalized limited series package inspired by the cultural fallout around the death of a generation-defining music icon.
-
-## Core positioning
-- Prestige thriller / drama
-- 6-part limited series
-- Rights-aware fictionalization
-- Built for producers, financiers, managers, attorneys, and packaging partners
-
-## Primary pages
-- / : public package overview
-- /docs/package-brief.html : fast package brief
-- /docs/call-sheet.html : live-call talking points
-- /docs/investor-faq.html : investor and producer FAQ
-
-## Summary
-The project is designed as a commercial, packageable premium series rather than a literal allegation piece. The dramatic engine is the difference between what happened, what people believe happened, and what the machinery around fame needed people to believe.
-
-
-## Participation paths
-- Creator / originator participation
-- Development financing
-- Producer / executive producer attachment
-- Companion audio / video-audio expansion
-- Rights / option / packaging discussions
-
-## Contact
-Replace placeholder email, calendar link, and IMDb URL before publication.
+# COME AS YOU WERE full synopsis
+COME AS YOU WERE is a six-part fictionalized prestige thriller inspired by the cultural mythology around Kurt Cobain and Nirvana. The project uses the Rome overdose, the rehab escape, the missing days, the widow, the investigator, the note, the estate, the handlers, and the public narrative war as dramatic ignition.
+The show is built for producers, financiers, managers, attorneys, showrunners, banners, and packaging partners.

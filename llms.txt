@@ -1,18 +1,4 @@
 # COME AS YOU WERE
-
-A premium fictionalized limited series package inspired by the cultural fallout around the death of a generation-defining music icon.
-
-## Core positioning
-- Prestige thriller / drama
-- 6-part limited series
-- Rights-aware fictionalization
-- Built for producers, financiers, managers, attorneys, and packaging partners
-
-## Primary pages
-- / : public package overview
-- /docs/package-brief.html : fast package brief
-- /docs/call-sheet.html : live-call talking points
-- /docs/investor-faq.html : investor and producer FAQ
-
-## Summary
-The project is designed as a commercial, packageable premium series rather than a literal allegation piece. The dramatic engine is the difference between what happened, what people believe happened, and what the machinery around fame needed people to believe.
+A premium limited series pitch package inspired by Kurt Cobain, Nirvana, Seattle 1994, and the battle over the official story after a generation-defining musician dies.
+Primary page: /
+Supporting pages: /docs/package-brief.html, /docs/call-sheet.html, /docs/investor-faq.html
