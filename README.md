@@ -1,35 +1,32 @@
-# Come As You Were - GitHub Pages package
+# COME AS YOU WERE — GitHub-ready investor site package
 
-This folder is ready to upload to a GitHub repository for static hosting.
+This folder is ready for GitHub Pages or any static host.
 
-## Before publishing
-Replace these placeholders:
+## Replace these placeholders before launch
 - `https://YOUR-DOMAIN.com/`
 - `YOUR_EMAIL@example.com`
 - `https://YOUR-CALENDAR-LINK.com/`
 - `https://www.imdb.com/name/YOUR-IMDB-ID/`
 
-## Files included
-- `index.html` - investor-facing homepage
-- `styles.css` - main styles
-- `script.js` - mobile navigation
-- `robots.txt` - crawl directives
-- `llms.txt` and `llms-full.txt` - machine-readable project guidance
-- `sitemap.xml` - basic sitemap
-- `site.webmanifest` - app metadata
-- `.nojekyll` - GitHub Pages compatibility
-- `assets/` - favicon, OG image, poster placeholder
-- `docs/investor-notes.html` - creator and buyer positioning notes
-- `docs/dalle-prompts.html` and `prompts/dalle-prompts.md` - image generation prompts
+Search in:
+- `index.html`
+- `docs/package-brief.html`
+- `docs/call-sheet.html`
+- `docs/investor-faq.html`
+- `robots.txt`
+- `sitemap.xml`
 
-## Suggested repo structure
-Upload everything in this folder to the root of your GitHub repository.
+## What is included
+- public investor-facing homepage
+- package brief
+- producer call sheet
+- investor FAQ
+- SEO files (`robots.txt`, `sitemap.xml`, `site.webmanifest`)
+- favicon and social preview assets
+- image prompts for future visual upgrades
 
-## Notes
-This site positions the project as a fictionalized original work inspired by public cultural mythology. Do not present unverified criminal allegations as fact.
-
-## Recommended next steps
-1. Replace placeholders.
-2. Add your verified IMDb URL.
-3. Run a title clearance / trademark check before public launch.
-4. Submit the live domain to Google Search Console and upload the sitemap.
+## Fastest publish path
+1. Upload the folder contents to a public GitHub repository
+2. Enable GitHub Pages from `main` branch and `/(root)`
+3. Replace placeholders
+4. Test the live URL

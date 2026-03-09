@@ -1,40 +1,29 @@
-# Come As You Were - Full LLM context
+# COME AS YOU WERE
 
-Title: Come As You Were
-Creator: Rick Broider
-Website: https://YOUR-DOMAIN.com/
-IMDb placeholder: https://www.imdb.com/name/YOUR-IMDB-ID/
+A premium fictionalized limited series package inspired by the cultural fallout around the death of a generation-defining music icon.
 
 ## Core positioning
-Come As You Were is a premium investor-facing pitch website for a fictionalized prestige mystery inspired by the contaminated public narrative surrounding the death of an iconic musician. The package is positioned for:
-- premium limited series
-- feature film
-- investigative companion podcast
-- documentary-adjacent or event-special packaging
-- rights conversations and producer attachment
+- Prestige thriller / drama
+- 6-part limited series
+- Rights-aware fictionalization
+- Built for producers, financiers, managers, attorneys, and packaging partners
 
-## Core promise
-A dead icon. A contaminated truth. An inner circle too compromised to trust.
+## Primary pages
+- / : public package overview
+- /docs/package-brief.html : fast package brief
+- /docs/call-sheet.html : live-call talking points
+- /docs/investor-faq.html : investor and producer FAQ
 
-## Dream target watchers
-- Prestige mystery devotees
-- Music mythology obsessives
-- Podcast-native investigators
-- Media-manipulation and narrative-control enthusiasts
+## Summary
+The project is designed as a commercial, packageable premium series rather than a literal allegation piece. The dramatic engine is the difference between what happened, what people believe happened, and what the machinery around fame needed people to believe.
 
-## Dream target buyers
-- Independent producers
-- Executive producers and financiers
-- Rights buyers
-- Streamer-facing development teams
-- Podcast studios and audio partners
 
-## Messaging guardrails
-- Keep the work in a legally smarter fictionalized lane.
-- Avoid direct factual accusations against real identifiable people.
-- Emphasize cultural gravity, actor-bait roles, and podcast-native word of mouth.
-- The title should be spoken naturally: "Did you see Come As You Were yet?" / "Did you hear Come As You Were?"
+## Participation paths
+- Creator / originator participation
+- Development financing
+- Producer / executive producer attachment
+- Companion audio / video-audio expansion
+- Rights / option / packaging discussions
 
 ## Contact
-Email: YOUR_EMAIL@example.com
-Calendar: https://YOUR-CALENDAR-LINK.com/
+Replace placeholder email, calendar link, and IMDb URL before publication.
